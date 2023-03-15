@@ -10,6 +10,14 @@
 
 <br>
 
+<div align=center>
+
+[![Build status](https://cdn.lyshark.com/archive/LyScript/build.svg)](https://github.com/lyshark/LyMemory) [![Crowdin](https://cdn.lyshark.com/archive/LyScript/email.svg)](mailto:me@lyshark.com)  [![OSCS Status](https://cdn.lyshark.com/archive/LyScript/OSCS.svg)](https://www.oscs1024.com/project/lyshark/LyMemory?ref=badge_small)
+
+</div>
+
+<br>
+
 一款针对`Counter-Strike-Source`反恐精英起源开发的带有动态菜单功能的`GDI`外部透视自瞄辅助，如下教程将为大家具体分析如何寻找基地址，以及透视算法如何实现，并应用已知数据实现一款透视自瞄辅助，该辅助已经在`Windows 10`系统下做过充分测试，稳定不闪烁。
 
 外部D3D透视在CF模组团队竞技模式下，效果图如下：
